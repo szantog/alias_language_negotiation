@@ -1,4 +1,4 @@
-name: 'alias_language_negotiation'
+name: 'Alias language negotiation'
 type: module
 description: 'Language from the alias.'
 core: 8.x
