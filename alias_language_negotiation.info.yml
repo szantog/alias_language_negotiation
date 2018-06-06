@@ -1,0 +1,7 @@
+name: 'alias_language_negotiation'
+type: module
+description: 'Language from the alias.'
+core: 8.x
+package: 'Multilingual'
+dependencies:
+  - language
